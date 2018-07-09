@@ -9,7 +9,7 @@ JS Machine - это сообщество разработчиков, заинт�
 Стурктура:
 
  <ul>
-  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.txt">Информация о сообществе</a></li>
-  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/basis/basis.txt">Начало и базовые знания</a></li>
-  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/technology/technology.txt">Технологии</a></li>
+  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.md">Информация о сообществе</a></li>
+  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/basis/basis.md">Начало и базовые знания</a></li>
+  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/technology/technology.md">Технологии</a></li>
 </ul>
