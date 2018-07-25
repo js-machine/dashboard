@@ -34,3 +34,6 @@
 ## Английский
 
 ## Книги
+* [Совершенный код](https://oz.by/books/more1015206.html)
+* [JavaScript. Подробное руководство](https://oz.by/books/more1011147.html)
+* [Чистый код](https://oz.by/books/more10109592.html)
