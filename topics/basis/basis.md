@@ -11,7 +11,20 @@
 * [Алгоритмы](#Алгоритмы)
 
 ## HTML
+
 ## CSS
 ## JS
+#### Типы данных
+* [Основные типы данных](https://learn.javascript.ru/types-intro)
+#### Операторы
+* [Основные операторы](https://learn.javascript.ru/operators)
+* [Операторы сравнения и логические значения](https://learn.javascript.ru/comparison)
+* [Побитовые операторы](https://learn.javascript.ru/bitwise-operators)
+* [Логические операторы](https://learn.javascript.ru/logical-ops)
+
+#### Конструкции
+* [Циклы](https://learn.javascript.ru/while-for) | [Видео](https://youtu.be/ITr-SzUIDpQ?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+* [Условные конструкции](https://learn.javascript.ru/ifelse) | [Видео](https://youtu.be/S2Y2i6g7IZE?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+* [Конструкция switch](https://learn.javascript.ru/switch)
 ## Структуры данных
 ## Алгоритмы
