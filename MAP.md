@@ -1,7 +1,5 @@
 # Карта
 
-<a href="https://github.com/js-machine/dashboard/blob/master/README.md">На главную</a>
-
 Ниже вы можете найти карту по изучению Javascript.
 
 Она включает состоит из 3 секций:
