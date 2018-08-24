@@ -12,5 +12,6 @@ https://learn.javascript.ru/
 
 # Modern Web
 
-https://webpack.js.org/guides/
+https://webpack.js.org/guides
+
 https://www.typescriptlang.org/docs/home.html
