@@ -16,5 +16,5 @@ https://twitter.com/js_machine_team
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/events/events.md">JS События</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/MAP.md">Карта знаний</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/technology/technology.md">Технологии</a></li>
-  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.md">О нас</a></li>
+  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.md">Контакты</a></li>
 </ul>
