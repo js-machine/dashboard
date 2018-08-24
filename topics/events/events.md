@@ -6,5 +6,5 @@
 
 Чтобы посмотреть события детальнее, перейдите по ссылке ниже:
 
-https://docs.google.com/spreadsheets/d/101XUnXt399OYhg6hjj-8TlM04s_o17MLJepsASewk6w/edit?usp=sharing
+![alt text](https://github.com/js-machine/dashboard/blob/master/topics/events/events.png)
 
