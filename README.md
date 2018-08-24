@@ -8,6 +8,8 @@ JS Machine - это сообщество разработчиков, заинт�
 
 Стурктура:
 
+![alt text](https://github.com/js-machine/dashboard/blob/master/topics/events/events.png)
+
  <ul>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/MAP.md">Карта</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/basis/basis.md">Начало и базовые знания</a></li>
