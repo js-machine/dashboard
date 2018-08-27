@@ -59,6 +59,14 @@
 
 ## Английский
 
+* [Lingualeo](https://lingualeo.com/)
+* [Puzzle English](https://puzzle-english.com)
+* [Duolingo](https://www.duolingo.com/)
+* [Аудиокниги](https://fenglish.ru/adaptirovannye-audioknigi-na-anglijskom-ot-obl/)
+
+#### Полезные ссылки
+* [80 общих английских фраз](https://englishteacheradriana.com/80-common-english-phrases/)
+
 ## Книги
 * [Совершенный код](https://oz.by/books/more1015206.html)
 * [JavaScript. Подробное руководство](https://oz.by/books/more1011147.html)
