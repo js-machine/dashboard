@@ -13,8 +13,11 @@
 * [Книги](#Книги)
 
 ## HTML
-
+#### Полезные ссылки
+* [HTML cheat cheet](https://htmlcheatsheet.com/)
 ## CSS
+#### Полезные ссылки
+* [CSS cheat cheet](https://htmlcheatsheet.com/css/)
 ## JS
 #### Типы данных
 * [Основные типы данных](https://learn.javascript.ru/types-intro)
@@ -28,6 +31,9 @@
 * [Циклы](https://learn.javascript.ru/while-for) | [Видео](https://youtu.be/ITr-SzUIDpQ?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 * [Условные конструкции](https://learn.javascript.ru/ifelse) | [Видео](https://youtu.be/S2Y2i6g7IZE?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 * [Конструкция switch](https://learn.javascript.ru/switch)
+
+#### Полезные ссылки
+* [JavaScript cheat cheet](https://htmlcheatsheet.com/js/)
 ## Структуры данных
 ## Алгоритмы
 
