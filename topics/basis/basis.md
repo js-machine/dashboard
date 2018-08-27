@@ -29,6 +29,12 @@
 * [HTML cheat cheet (версия для печати)](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 
 ## CSS
+* [Базовые стили CSS](https://habr.com/post/155875/)
+#### Позиционирование
+* [Основые свойства для позиционирования](https://html5book.ru/css-position/)
+* [Базовое позиционирование (статья)](http://dreamhelg.ru/2011/02/css-position-in-10-steps/)   
+* [Видео 1](https://www.youtube.com/watch?v=eZingxnTQ90)
+* [Видео 2](https://www.youtube.com/watch?v=h4WWST4cIWE)
 #### Полезные ссылки
 * [CSS cheat cheet](https://htmlcheatsheet.com/css/)
 * [Can I use (Платформа со статистикой поддержки свойств CSS современными браузерами)](https://caniuse.com/)
