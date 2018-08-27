@@ -13,11 +13,21 @@
 * [Книги](#Книги)
 
 ## HTML
+
+#### Теги
+* [Основные теги](https://developer.mozilla.org/ru/docs/Web/HTML/Element)
+* [Блочные элементы](https://developer.mozilla.org/ru/docs/Web/HTML/Block-level_elements)
+* [Строчные элементы](https://developer.mozilla.org/ru/docs/Web/HTML/%D0%A1%D1%82%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
+* [Медиа теги audio/video](https://developer.mozilla.org/ru/docs/Web/HTML/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B)
+* [Семантические теги](https://html5book.ru/html5-semantic-elements/)
+
 #### Атрибуты
 * [Глобальные атрибуты](https://developer.mozilla.org/ru/docs/Web/HTML/%D0%9E%D0%B1%D1%89%D0%B8%D0%B5_%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B)
+
 #### Полезные ссылки
 * [HTML cheat cheet](https://htmlcheatsheet.com/)
 * [HTML cheat cheet (версия для печати)](https://websitesetup.org/HTML5-cheat-sheet.pdf)
+
 ## CSS
 #### Полезные ссылки
 * [CSS cheat cheet](https://htmlcheatsheet.com/css/)
