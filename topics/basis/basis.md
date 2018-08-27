@@ -13,11 +13,15 @@
 * [Книги](#Книги)
 
 ## HTML
+#### Атрибуты
+* [Глобальные атрибуты](https://developer.mozilla.org/ru/docs/Web/HTML/%D0%9E%D0%B1%D1%89%D0%B8%D0%B5_%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B)
 #### Полезные ссылки
 * [HTML cheat cheet](https://htmlcheatsheet.com/)
+* [HTML cheat cheet (версия для печати)](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 ## CSS
 #### Полезные ссылки
 * [CSS cheat cheet](https://htmlcheatsheet.com/css/)
+* [Can I use (Платформа со статистикой поддержки свойств CSS современными браузерами)](https://caniuse.com/)
 ## JS
 #### Типы данных
 * [Основные типы данных](https://learn.javascript.ru/types-intro)
