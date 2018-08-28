@@ -13,7 +13,7 @@ JS Machine - это сообщество разработчиков, заинт�
   <li><a href="https://github.com/js-machine/dashboard/blob/master/MAP.md">Карта знаний</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/technology/technology.md">Технологии</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.md">Контакты</a></li>
-  <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/trainings/trainings.md">Тренинги</a></li>
+  <li><a href="https://github.com/js-machine/dashboard/blob/master/trainings/trainings.md">Тренинги</a></li>
 </ul>
 
 # Контакты
