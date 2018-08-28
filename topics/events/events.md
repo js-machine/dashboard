@@ -10,17 +10,17 @@
 
 <a href="https://school.rollingscopes.com/">Rolling Scopes School</a>
 
-`
+```
 Онлайн школа от Rolling Scopes
-`
+```
 
 ### 22 сентября - EPAM SEC (Минск)
 
 <a href="https://events.epam.com/events/sec-2018/">SEC 2018</a>
 
-`
+```
 Крупнейшая епамовская конференция
-`
+```
 
 ### 30 сентября - Rolling Scopes Meet-up (Могилев)
 
