@@ -6,10 +6,6 @@ JS Machine - это сообщество разработчиков, заинт�
 
 Эта страница является платформой для новых идей, новых знаний, нового общения для разработчиков в нашем городе.
 
-# Наши новости
-
-https://twitter.com/js_machine_team
-
 Стурктура:
 
  <ul>  
@@ -18,3 +14,13 @@ https://twitter.com/js_machine_team
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/technology/technology.md">Технологии</a></li>
   <li><a href="https://github.com/js-machine/dashboard/blob/master/topics/history/history.md">Контакты</a></li>
 </ul>
+
+# Контакты
+
+[![alt text][1.2]][1]
+[![alt text][2.1]][2]
+
+[1.2]: http://i.imgur.com/tXSoThF.png (twitter)
+[1]: https://twitter.com/js_machine_team
+[2.1]: https://i.imgur.com/ZVD7prK.png (telegram)
+[2]: https://t.me/joinchat/Gv0AXxLi0Su2Jv4AhCaCkA
