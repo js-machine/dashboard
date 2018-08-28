@@ -26,5 +26,8 @@
 
 <a href="https://mogilev.rollingscopes.com/">Rolling Scopes Mogilev</a>
 
+
+## Октябрь
+
 ### 20 октября - EPAM Hackaton (Могилев)
 
