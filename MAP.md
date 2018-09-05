@@ -32,8 +32,8 @@ https://learn.javascript.ru/
 
 |                        |                                             |
 | :--------------------: | :-----------------------------------------: |
-|        [VS Code]       |       https://code.visualstudio.com/        |
-|       [Web Storm]      | https://www.jetbrains.com/student/          |
+|        VS Code       |       https://code.visualstudio.com/        |
+|       Web Storm      | https://www.jetbrains.com/student/          |
 
 
 ### Advanced
