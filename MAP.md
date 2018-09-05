@@ -16,9 +16,9 @@ Data structure:
 
 # Basic
 
-IDE:
+IDE: 
 
-VS Code
+VS Code:  
 https://code.visualstudio.com/
 
 Web Storm:
