@@ -23,7 +23,7 @@
 
 #### Basic
 
-* [HTML](./topics/basis/html-basic.md) 
+* [Основы HTML](./topics/basis/html-basic.md) 
 
    HTML – это язык гипертекстовой разметки, который определяет структуру страницы, которую мы видим в браузере.
 
