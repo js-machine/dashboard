@@ -24,8 +24,9 @@
 
 ### 30 сентября - Rolling Scopes Meet-up (Могилев)
 
-<a href="https://mogilev.rollingscopes.com/">Rolling Scopes Mogilev</a>
+<a href="https://mogilev.rollingscopes.com/">Rolling Scopes Mogilev (RS link)</a>
 
+<a href="https://events.epam.com/events/the-rolling-scopes-50-mogilev/">Rolling Scopes Mogilev (EPAM Event link)</a>
 
 ## Октябрь
 
