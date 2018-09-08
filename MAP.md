@@ -31,21 +31,23 @@
 
 ### Basic
 
-* [Основы HTML](./topics/basis/html-basic.md) 
+* **IDE**: 
 
-   HTML – это язык гипертекстовой разметки, который определяет структуру страницы, которую мы видим в браузере.
-
-* **CSS**: 
-* **Javascript**: 
-https://learn.javascript.ru/
-
-* **IDE**: Ask in [Slack][slack] and you'll either find someone or be able to schedule a time for later.
+Integrated Development Environment - это среда для разработки(здесь мы пишем код), которая позволяет разработчику улучшичить свою производительность, быстрее переносить свои мысли в готовые решения.
 
 |                        |                                             |
 | :--------------------: | :-----------------------------------------: |
 |        VS Code       |       https://code.visualstudio.com/        |
 |       Web Storm      | https://www.jetbrains.com/student/          |
 
+* [Основы HTML](./topics/basis/html-basic.md) 
+
+   HTML – это язык гипертекстовой разметки, который определяет структуру страницы, которую мы видим в браузере.
+   
+* **CSS**: 
+
+* **Javascript**: 
+https://learn.javascript.ru/
 
 ### Advanced
 
