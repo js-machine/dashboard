@@ -35,9 +35,10 @@
 
    Integrated Development Environment - это среда для разработки(здесь мы пишем код), которая позволяет разработчику улучшичить свою производительность, быстрее переносить свои мысли в готовые решения.
 
-   | :--------------------: | :-----------------------------------------: |
+   |        #Имя          |                                             |
+   | :------------------: | :-----------------------------------------: |
    |        VS Code       |       https://code.visualstudio.com/        |
-   |       Web Storm      | https://www.jetbrains.com/student/          |
+   |       Web Storm      |       https://www.jetbrains.com/student/    |
 
 * [Основы HTML](./topics/basis/html-basic.md) 
 
