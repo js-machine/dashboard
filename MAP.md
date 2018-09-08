@@ -6,7 +6,6 @@
 
 ## Содержание
 
-* [English](#english)
 * [Start](#start)
 * [Basic](#basic)
 * [Advanced](#advanced)
