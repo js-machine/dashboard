@@ -11,9 +11,6 @@
 * [Advanced](#advanced)
 * [Keep Learning](#keep-learning)
 
-### English
-
-
 #### Start
 
 * **Common**: Зачем это надо
