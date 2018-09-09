@@ -2,7 +2,7 @@
 
 # English
 
-![alt text](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1600px-Flag_of_the_United_Kingdom.svg.png)
 
 ![](./images/roadmap-basic.png)
 
