@@ -24,5 +24,4 @@
 
 #### Полезные ссылки
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [W3School](https://www.w3schools.com/)
+* [80 общих английских фраз](https://englishteacheradriana.com/80-common-english-phrases/)
