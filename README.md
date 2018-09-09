@@ -1,6 +1,6 @@
 # JS Machine
 
-![alt text](https://github.com/js-machine/dashboard/blob/master/jsmachine-color%402x.png)
+![alt text](https://github.com/js-machine/dashboard/blob/master/images/jsmachine-color%402x.png)
 
 JS Machine - это сообщество разработчиков, заинтересованных в развитии Front End технологий в Могилеве.
 
