@@ -1,3 +1,5 @@
+<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#start">На карту знаний</a>
+
  # Общие знания разработчика
 ![](./images/roadmap-basic.png)
 
