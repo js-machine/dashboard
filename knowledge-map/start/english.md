@@ -1,4 +1,4 @@
-<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md">На карту знаний</a>
+<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#start">На карту знаний</a>
 
 # English
 ![](./images/roadmap-basic.png)
