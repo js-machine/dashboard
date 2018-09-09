@@ -48,8 +48,8 @@
 
    Каскадные таблицы стилей (Cascading Style Sheets = CSS) — это язык, который отвечает за визуальное представление документов пользователю. Он работает с цветами, шрифтами, размерами и многим другим.
 
-* **Javascript**: 
-https://learn.javascript.ru/
+* [Основы Javascript](./topics/basis/js-basic.md)
+   Джаваскрипт
 
 ### Advanced
 
