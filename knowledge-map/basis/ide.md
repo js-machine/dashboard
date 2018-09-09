@@ -1,3 +1,5 @@
+ <a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#basis">На карту знаний</a>
+ 
  # IDE
 ![](./images/roadmap-basic.png)
 
