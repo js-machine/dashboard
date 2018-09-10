@@ -4,7 +4,7 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/400px-Flag_of_the_United_Kingdom.svg.png)
 
-Данная страница содержит ссылки на ресурсы и курсы, позволяющие повысить уровень английского или начать изучать его с нуля.
+Данная страница содержит ссылки на ресурсы и курсы, позволяющие повысить уровень английского языка или начать изучать его с нуля.
 
 
 * [Lingualeo](https://lingualeo.com/)
