@@ -10,9 +10,9 @@
 
 All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
 
-* ![High][high_img] means that the item **can't be omitted** by any reason. You may cause a dysfunction in your page or have accessibility or SEO issues. The testing priority needs to be on these elements first.
-* ![Medium][medium_img] means that the item is **highly recommended** and can eventually be omitted in some really particular cases. Some elements, if omitted, can have bad repercussions in terms of performance or SEO.
-* ![Low][low_img] means that the item is **recommended** but can be omitted in some particular situations.
+* ![important] means that the item **can't be omitted** by any reason. You may cause a dysfunction in your page or have accessibility or SEO issues. The testing priority needs to be on these elements first.
+* ![choice] means that the item is **highly recommended** and can eventually be omitted in some really particular cases. Some elements, if omitted, can have bad repercussions in terms of performance or SEO.
+* ![useful] means that the item is **recommended** but can be omitted in some particular situations.
 
 ## Содержание
 
@@ -82,8 +82,8 @@ All items in the **Front-End Checklist** are required for the majority of the pr
 
 * [Что дальше](./advanced/keep-learning.md) 
 
-[low_img]: https://front-end-checklist.now.sh/low.svg
-[medium_img]: https://front-end-checklist.now.sh/medium.svg
-[high_img]: https://front-end-checklist.now.sh/high.svg
+[important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
+[choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
+[useful]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/usefull.png
 
 [knowledge-map]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/%D0%A7%D1%82%D0%BE%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%20%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83.png
