@@ -5,9 +5,13 @@
 
 Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания и навыки верстки. После изучения материала, Вы будете свободно разбираться в структуре HTML документа, познакомитесь с разметкой текста, научитесь работать с изображениями, а так же формами для ввода данных.
 
+![High][high_img]
+
 * [Курс HTML academy](https://htmlacademy.ru/courses/basic-html)
 
 > Один из лучших курсов на русском языке, в котором помимо обяснения будут задания, которые необходимо решить.
+
+![Medium][medium_img]
 
 * [W3schools tutorial](https://www.w3schools.com/html/default.asp)
 
@@ -20,7 +24,13 @@
 
 > Здесь представлены различные видео уроки по HTML5 с нуля для начинающих. Уроки по HTML5 помогут вам создавать сайты и наполнять их материалами.
 
+![Low][low_img]
+
 #### Полезные ссылки
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3School](https://www.w3schools.com/)
+
+[low_img]: https://front-end-checklist.now.sh/low.svg
+[medium_img]: https://front-end-checklist.now.sh/medium.svg
+[high_img]: https://front-end-checklist.now.sh/high.svg
