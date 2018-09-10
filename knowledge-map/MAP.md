@@ -8,11 +8,11 @@
 
 ## Как использовать?
 
-All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
+Все материалы из карты знаний содержат полезную информацию, но некоторые могу быть дополнением или еще одним источником на выбор. В секциях находтся маркеры, которые разделяют материалы на категории:
 
-* ![important] means that the item **can't be omitted** by any reason. You may cause a dysfunction in your page or have accessibility or SEO issues. The testing priority needs to be on these elements first.
-* ![choice] means that the item is **highly recommended** and can eventually be omitted in some really particular cases. Some elements, if omitted, can have bad repercussions in terms of performance or SEO.
-* ![useful] means that the item is **recommended** but can be omitted in some particular situations.
+* ![important] означает, что материал является основным для изучения и полностью покрывает тему.
+* ![choice] означает, что материал является альтернативой основному. Он содержит те же знания, но оформленные в другом стиле или формате.
+* ![useful] означает, что материал содержит дополнительную информацию, которая содержит более детальное описание или покрывает более узкие темы.
 
 ## Содержание
 
