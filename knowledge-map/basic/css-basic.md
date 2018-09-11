@@ -1,4 +1,6 @@
- # Базовые знания CSS
+[На карту знаний](https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#basic)
+
+# Базовые знания CSS
 ![](https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/roadmap-basic.png)
 
 Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания CSS. После изучения материала, Вы сможете создавать собственные стили, разбираться в каскадировании и наследовании свойств.
