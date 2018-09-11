@@ -22,6 +22,10 @@
 
 > Русскоязычный курс по фреймворку Angular для новичков.
  
+ * [Видео-курс Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
+ 
+ * [Angular University](https://angular-university.io/)
+ 
  ## React
  
  ![important]
@@ -37,6 +41,8 @@
 
 > Русскоязычный курс по библиотеке react.js для новичков.
 
+* [React.js CodeAcademy](https://www.codecademy.com/learn/react-101)
+
 ## Vue
 
 ![choice]
@@ -50,8 +56,6 @@
 
 #### Полезные ссылки
 
-* [Angular University](https://angular-university.io/)
-* [React.js CodeAcademy](https://www.codecademy.com/learn/react-101)
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
