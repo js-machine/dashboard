@@ -18,6 +18,8 @@
 
 > На официальной документации можно найти все возможности данного фреймворка, пройти стартовые курсы, а также познакомиться с лучшими практиками написания кода на Angular.
  
+ * [Курс по Angular](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+ 
  ## React
  
  ![important]
