@@ -17,8 +17,10 @@
 * [Официальная документация по Angular](https://angular.io/tutorial)
 
 > На официальной документации можно найти все возможности данного фреймворка, пройти стартовые курсы, а также познакомиться с лучшими практиками написания кода на Angular.
- 
- * [Курс по Angular](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+
+* [Видео-курс по Angular](https://www.youtube.com/watch?v=Gl4IT4JpP4o&list=PLDyvV36pndZF-vwsVB48ivZyNJ4ETBKNY)
+
+> Русскоязычный курс по фреймворку Angular для новичков.
  
  ## React
  
@@ -27,6 +29,13 @@
 * [Официальная документация по React.js](https://reactjs.org/)
 
 > На официальной документации можно найти все возможности данной библиотеки, пройти стартовые курсы, а также познакомиться с лучшими практиками написания кода на React.
+
+---
+![choice]
+ 
+ * [Видео-курс по React](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+
+> Русскоязычный курс по библиотеке react.js для новичков.
 
 ## Vue
 
