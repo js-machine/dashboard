@@ -41,6 +41,7 @@
 
 * [Angular University](https://angular-university.io/)
 * [React.js CodeAcademy](https://www.codecademy.com/learn/react-101)
+* [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
