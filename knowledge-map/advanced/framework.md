@@ -1,5 +1,5 @@
  # Frameworks
-![](./images/roadmap-basic.png)
+![](https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/advanced-map.png)
 
 Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания по популярным фреймворкам и библиотекам. После изучения материала, Вы будете свободно разбираться в данных технологиях и научитесь строить одностраничные приложения (Single Page Application - SPA).
 
