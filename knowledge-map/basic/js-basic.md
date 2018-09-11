@@ -1,24 +1,34 @@
- # Базовые знания CSS
-![](./images/roadmap-basic.png)
+[На карту знаний](https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#basic)
 
-Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания и навыки верстки. После изучения материала, Вы будете свободно разбираться в структуре HTML документа, познакомитесь с разметкой текста, научитесь работать с изображениями, а так же формами для ввода данных.
+# Базовые знания JavaScript
+![](https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/roadmap-basic.png)
 
-* [Курс HTML academy](https://htmlacademy.ru/courses/basic-html)
+Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания Javascript. После изучения материала, Вы сможете создавать собственные скрипты, разбираться в операторах и конструкциях языка.
 
-> Один из лучших курсов на русском языке, в котором помимо обяснения будут задания, которые необходимо решить.
+![important]
+* [Основы JavaScript](javascript.ru/first-steps)
 
-* [W3schools tutorial](https://www.w3schools.com/html/default.asp)
+  Эта часть позволит вам изучить JavaScript с нуля или упорядочить и дополнить существующие знания.
+---
 
-> Курс сайта w3school. Менее интерактивый чем курс HTML academy, но достаточно структурированный и содержит примеры верстки.
- 
-* [Бесплатный курс Hexlet](https://ru.hexlet.io/courses/html)
-> Курс посвящен базовым концепциям веб-дизайна, языка разметки HTML и CSS. Мы научимся делать статические веб-страницы, задавать стили элементам, думать о пространстве и расстояниях, работать с документом в браузере с Developer Tools, публиковать страницы в интернете и интегрировать их с социальными сетями.
+![choice]
+* [W3schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 
-* [Видеокурс HTML5 уроки с нуля для начинающих!](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUpe6yMyXAlcrfT6AO0KW1a)
+* [Видеокурс JavaScript от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
-> Здесь представлены различные видео уроки по HTML5 с нуля для начинающих. Уроки по HTML5 помогут вам создавать сайты и наполнять их материалами.
+* [Видеокурс "JavaScript для начинающих"](https://www.youtube.com/playlist?list=PLypd1VrGv7FNmdnnSgW91SfMqFVnrz90y)
 
+* [Вудиокурс "Изучение JavaScript от нуля до гуру"](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
+
+  В данном курсе находятся все видеоуроки по изучению языка JavaScript. Этот язык может быть полезен как при создании сайта, так и при создании игр, приложений и много другого!
+---
+
+![useful]
 #### Полезные ссылки
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [W3School](https://www.w3schools.com/)
+
+[important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
+[choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
+[useful]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/useful.png
