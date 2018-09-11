@@ -29,6 +29,7 @@
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [W3School](https://www.w3schools.com/)
+* [WebReference](https://webref.ru/)
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
