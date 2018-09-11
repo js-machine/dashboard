@@ -29,6 +29,7 @@
 
 #### Полезные ссылки
 
+* [Angular Router Authentication and Authorization](https://www.youtube.com/watch?v=yjxOYsRkozQ)
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
