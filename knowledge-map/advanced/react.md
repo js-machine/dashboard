@@ -1,3 +1,5 @@
+<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/advanced/framework.md">Назад</a>
+
  # React
 
 <a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/advanced/framework.md">Назад</a>
