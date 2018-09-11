@@ -2,8 +2,6 @@
 
  # React
 
-<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/advanced/framework.md">Назад</a>
-
 Данная страница содержит ссылки на ресурсы и курсы, позволяющие получить базовые знания по react.js. После изучения материала, Вы будете свободно разбираться в данных технологиях и научитесь строить одностраничные приложения (Single Page Application - SPA).
  
  ![important]
