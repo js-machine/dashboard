@@ -14,12 +14,12 @@
 ---
 ![choice]
 
-* [Официальная документация по Redux](https://redux.js.org/)
-
  ---
 ![useful]
 
 #### Полезные ссылки
+
+* [Официальная документация по Redux](https://redux.js.org/)
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
