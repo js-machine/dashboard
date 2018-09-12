@@ -15,6 +15,12 @@
 
 #### Полезные ссылки
 
+* [Testing React Apps - jest ](https://jestjs.io/docs/en/tutorial-react)
+* [Jasmine](https://jasmine.github.io/)
+* [Mocha](https://mochajs.org/)
+* [Karma](https://karma-runner.github.io/2.0/index.html)
+
+
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
 [useful]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/useful.png
