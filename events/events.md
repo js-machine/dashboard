@@ -11,7 +11,7 @@
 <a href="https://school.rollingscopes.com/">Rolling Scopes School</a>
 
 ```
-Онлайн школа от Rolling Scopes
+Онлайн школа от Rolling Scopes - тренинг по Front-End от начального уровня.
 ```
 
 ### 22 сентября - EPAM SEC (Минск)
@@ -19,7 +19,7 @@
 <a href="https://events.epam.com/events/sec-2018/">SEC 2018</a>
 
 ```
-Крупнейшая епамовская конференция
+Крупнейшая епамовская конференция в Минске.
 ```
 
 ### 30 сентября - Rolling Scopes Meet-up (Могилев)
@@ -28,6 +28,9 @@
 
 <a href="https://events.epam.com/events/the-rolling-scopes-50-mogilev/">Rolling Scopes Mogilev (EPAM Event link)</a>
 
+```
+Front-end Meet-Up в городе Могилеве, на который съезжаются люди с разных локаций, объеденные Rolling Scopes Community. 
+```
 ## Октябрь
 
 ### 20 октября - EPAM Hackaton (Могилев)
