@@ -14,6 +14,10 @@
 ---
 ![choice]
 
+* [Основы Redux](https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html)
+* [Обучающий курс по Redux от создателя библиотеки](egghead.io/series/getting-started-with-redux)
+В первых роликах рассказывается о принципах Redux, а затем поэтапно разбирается разработка веб-приложения на нем.
+
  ---
 ![useful]
 
