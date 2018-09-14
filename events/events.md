@@ -29,7 +29,9 @@
 <a href="https://events.epam.com/events/the-rolling-scopes-50-mogilev/">Rolling Scopes Mogilev (EPAM Event link)</a>
 
 ```
-Front-end Meet-Up в городе Могилеве, на который съезжаются люди с разных локаций, объеденные Rolling Scopes Community. 
+Front-end Meet-Up в городе Могилеве, на который съезжаются люди с разных локаций,
+
+объеденные Rolling Scopes Community. 
 ```
 ## Октябрь
 
