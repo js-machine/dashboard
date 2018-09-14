@@ -31,7 +31,7 @@
 ```
 Front-end Meet-Up в городе Могилеве, на который съезжаются люди с разных локаций,
 
-объеденные Rolling Scopes Community. 
+объединенные Rolling Scopes Community. 
 ```
 ## Октябрь
 
