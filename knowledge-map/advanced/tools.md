@@ -25,11 +25,11 @@
 
  ---
 ![useful]
-* [Git docs](http://devdocs.io/git/)
-* [Webpack docs](https://webpack.js.org/)
 
 #### Полезные ссылки
 
+* [Git docs](http://devdocs.io/git/)
+* [Webpack docs](https://webpack.js.org/)
 * [ESLint](https://eslint.org/)
 * [TSLint](https://palantir.github.io/tslint/)
 * [JSDoc](http://usejsdoc.org/)
