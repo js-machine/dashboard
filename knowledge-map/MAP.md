@@ -80,7 +80,7 @@
 
    Описание
 
-* [Что дальше](./advanced/keep-learning.md) 
+* [Что дальше](./keep-learning/keep-learning.md) 
 
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
