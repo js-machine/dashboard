@@ -10,10 +10,9 @@
 
 * [Web Storm](https://www.jetbrains.com/student/)
 
-> [Внимание! Требуется платная лицензия] 
+> 
+[Внимание! Требуется платная лицензия] 
 JetBrains WebStorm — интегрированная среда разработки на JavaScript, CSS & HTML от компании JetBrains, разработанная на основе платформы IntelliJ IDEA. WebStorm обеспечивает автодополнение, анализ кода на лету, навигацию по коду, рефакторинг, отладку, и интеграцию с системами управления версиями.
 
 #### Полезные ссылки
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [W3School](https://www.w3schools.com/)
