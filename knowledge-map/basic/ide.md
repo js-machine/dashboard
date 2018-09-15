@@ -2,6 +2,8 @@
  
  # IDE
 
+![vscode]
+
 Данная страница содержит список программ (интегрированных сред разработки), с помощью которых можно можно быстро и удобно работать с кодом, версткой и стилями.
 
 ![important]
@@ -25,3 +27,4 @@
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
 [useful]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/useful.png
+[vscode]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/vscode.png
