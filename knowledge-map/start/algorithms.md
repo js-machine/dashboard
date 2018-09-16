@@ -27,6 +27,8 @@
 
 ![choice]
 
+* [Алгоритмы и структуры данных для начинающих: сортировка](https://tproger.ru/translations/sorting-for-beginners/)
+
 ---
 
 ![useful]
