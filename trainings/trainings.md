@@ -1,3 +1,5 @@
+<a href="https://github.com/js-machine/dashboard/blob/master/README.md">На главную</a>
+
 # Rolling Scopes School
 Отличный тренинг для желающих влится в мир Javascript c 0.<br>
 https://www.eventbrite.com/e/the-rolling-scopes-school-2018-q3-introduction-tickets-43395172128
