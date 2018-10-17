@@ -14,6 +14,8 @@
 ![choice]
 
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+  
+  Отличные видео о структурах данных, реализованных на JavaScript.
 
 ---
 ![useful]
