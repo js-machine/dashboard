@@ -34,6 +34,8 @@
 ---
 ![choice]
 
+* [Курс "Основы ООП"](https://geekbrains.ru/courses/70?utm_source=blog&utm_medium=social&utm_campaign=blog_gb_22.09.15)
+
 ---
 ![useful]
 
