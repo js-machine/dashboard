@@ -20,6 +20,8 @@
 ---
 ![useful]
 
+* [Визуализация ряда алгоритмов и структур данных](//www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Анимированные визуализации структур данных](https://visualgo.net/ru)
 
 #### Полезные ссылки
 
