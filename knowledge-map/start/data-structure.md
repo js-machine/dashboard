@@ -25,8 +25,6 @@
 * [Визуализация ряда алгоритмов и структур данных](//www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Анимированные визуализации структур данных](https://visualgo.net/ru)
 
-#### Полезные ссылки
-
 [important]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/important.png
 [choice]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/choice.png
 [useful]: https://github.com/js-machine/dashboard/blob/master/knowledge-map/images/useful.png
