@@ -14,6 +14,8 @@
 ![choice]
 * [W3schools JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 
+* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+
 * [Видеокурс JavaScript от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
 
 * [Видеокурс "JavaScript для начинающих"](https://www.youtube.com/playlist?list=PLypd1VrGv7FNmdnnSgW91SfMqFVnrz90y)
