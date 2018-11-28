@@ -10,4 +10,5 @@ Gmail: js.machine.team@gmail.com
 
 Twitter: https://twitter.com/js_machine_team
 
-Telegram: https://t.me/joinchat/Gv0AXxLi0Su2Jv4AhCaCkA
+Telegram Chat: JS Machine Chat https://t.me/js_machine
+Telegram Channel: JS Machine Channel https://t.me/js_machine_channel
