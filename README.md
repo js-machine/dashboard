@@ -20,8 +20,11 @@ JS Machine - это сообщество разработчиков, заинт�
 
 [![alt text][1.2]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 [1.2]: http://i.imgur.com/tXSoThF.png (twitter)
 [1]: https://twitter.com/js_machine_team
 [2.1]: https://i.imgur.com/ZVD7prK.png (telegram)
 [2]: https://t.me/js_machine
+[3.1]: https://i.imgur.com/Jw55V7x.png (VK)
+[3]: https://vk.com/jsmachine
