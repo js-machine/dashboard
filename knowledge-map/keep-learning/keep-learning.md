@@ -15,7 +15,8 @@
 
 ---
 ![choice]
-  *<a href="https://github.com/js-machine/dashboard/blob/master/knowledge-map/MAP.md#basic">Golang</a>
+* https://refactoring.guru/ru/refactoring
+Golang
 ---
 ![useful]
 
