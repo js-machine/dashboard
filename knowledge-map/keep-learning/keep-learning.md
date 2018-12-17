@@ -15,7 +15,7 @@
 
 ---
 ![choice]
-* https://github.com/js-machine/dashboard/blob/master/golang/index
+* https://github.com/js-machine/dashboard/blob/master/golang/index.md
 
   Go was conceived in 2007 to improve programming productivity at Google, in an era of multicore processors, computer networks, and large codebases. The designers wanted to resolve common criticisms of other languages, while retaining many of their useful characteristics
 ---
