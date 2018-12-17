@@ -17,9 +17,7 @@
 
 ---
 ![choice]
-* https://github.com/js-machine/dashboard/blob/master/golang/index
 
-  Go was conceived in 2007 to improve programming productivity at Google, in an era of multicore processors, computer networks, and large codebases. The designers wanted to resolve common criticisms of other languages, while retaining many of their useful characteristics
 ---
 ![useful]
 
@@ -41,7 +39,7 @@
   
 * https://habrahabr.ru/post/272383/
   
- Постулаты go. Маленькая статья об основных принципах языка
+  Постулаты go. Маленькая статья об основных принципах языка
   
 * https://habrahabr.ru/company/mailru/blog/301036/
   
