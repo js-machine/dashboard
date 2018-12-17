@@ -14,6 +14,14 @@
 * https://github.com/golang/go/wiki/CodeReviewComments
 
   Как ревьювить (и писать код). обязательно к прочтению
+  
+* https://golang.org/doc/effective_go.html
+  
+  Основной сборник тайного знания
+  
+* https://habrahabr.ru/company/mailru/blog/314804/
+  
+  50 оттенков го. обязательно к прочтению
 
 ---
 ![choice]
@@ -25,17 +33,9 @@
   
   Про организацию кода. GOPATH и пакеты
   
-* https://golang.org/doc/effective_go.html
-  
-  Основной сборник тайного знания
-  
 * https://yourbasic.org/golang/
   
   Решения типовых задач
-  
-* https://habrahabr.ru/company/mailru/blog/314804/
-  
-  50 оттенков го. обязательно к прочтению
   
 * https://habrahabr.ru/post/272383/
   
