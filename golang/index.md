@@ -56,6 +56,10 @@
 * https://habrahabr.ru/post/276981/
   
   Краш-курс по интерфейсам в Go.
+  
+* https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86
+
+  Golang from Zero to Hero
 
 
 #### Полезные ссылки
