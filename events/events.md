@@ -3,37 +3,14 @@
 # Это карта событий в мире Javascript и Front-End.
 
 
-## Сентябрь
+## Февраль
 
-
-### 10 сентября - Rolling Scopes School (Могилев)
-
-<a href="https://school.rollingscopes.com/">Rolling Scopes School</a>
+### 22 февраля - Могилевский фестиваль наук. "Game of JS"
 
 ```
-Онлайн школа от Rolling Scopes - тренинг по Front-End от начального уровня.
+Конкурсное мероприятие в Белорусско-Российском университете.
+Время: 10.30 – 11.30
+Место: Белорусско-Российский университет,
+корпус №1, ауд. 301
 ```
-
-### 22 сентября - EPAM SEC (Минск)
-
-<a href="https://events.epam.com/events/sec-2018/">SEC 2018</a>
-
-```
-Крупнейшая epam конференция в Минске.
-```
-
-### 30 сентября - Rolling Scopes Meet-up (Могилев)
-
-<a href="https://mogilev.rollingscopes.com/">Rolling Scopes Mogilev (RS link)</a>
-
-<a href="https://events.epam.com/events/the-rolling-scopes-50-mogilev/">Rolling Scopes Mogilev (EPAM Event link)</a>
-
-```
-Front-end Meet-Up в городе Могилеве, на который съезжаются люди с разных локаций,
-
-объединенные Rolling Scopes Community. 
-```
-## Октябрь
-
-### 20 октября - EPAM Hackaton (Могилев)
 
