@@ -20,7 +20,7 @@
 
 * [Видеокурс "JavaScript для начинающих"](https://www.youtube.com/playlist?list=PLypd1VrGv7FNmdnnSgW91SfMqFVnrz90y)
 
-* [Вудиокурс "Изучение JavaScript от нуля до гуру"](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
+* [Вудеокурс "Изучение JavaScript от нуля до гуру"](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
 
   В данном курсе находятся все видеоуроки по изучению языка JavaScript. Этот язык может быть полезен как при создании сайта, так и при создании игр, приложений и много другого!
 ---
