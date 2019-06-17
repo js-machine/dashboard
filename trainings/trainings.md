@@ -8,6 +8,7 @@ https://school.rollingscopes.com/
 Следующий набор стартует в сентябре 2019. 
 Организационный вебинар - 9 сентября 2019.
 
-# EPAM Front-End Trainings
-Тренинг для чуть более подготовленных ребят уже имеющих некие базовые знания.<br>
-https://www.training.by/Registration/Registration/1900
+# EPAM JavaScript Development
+Старт - 09.09.2019, окончание - 29.02.2020.
+Формат: online вебинары.
+https://www.training.by/#/Training/2119
