@@ -12,6 +12,6 @@ Twitter: https://twitter.com/js_machine_team
 
 VK Group: https://vk.com/jsmachine
 
-Telegram Chat: JS Machine Chat https://t.me/js_machine
+Telegram: JS Machine https://t.me/js_machine
 
-Telegram Channel: JS Machine Channel https://t.me/js_machine_channel
+Instagram: js.machine https://www.instagram.com/js.machine/
